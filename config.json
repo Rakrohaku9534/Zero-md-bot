@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285786539008@s.whatsapp.net","6285786539008@s.whatsapp.net"],
+    "ownerName": "Fahrul",
+    "instagram" : "https://instagram.com/fahrul_mt",
+    "gcwa" : "https://chat.whatsapp.com/HZ0XzL2hYl5EtKgz15Qdfv",
+    "botName": "ZERO MD",
+    "footer": "FAHRUL MT",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "PHUuHo4b2nErbAZ",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": true,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": true,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
